@@ -11,7 +11,7 @@ Su objetivo principal es permitirte crear paneles visuales, modernos y muy organ
 La aplicación está dividida en cuatro pestañas principales:
 
 ### ⚙️ Configuración
-Aquí defines los colores principales de los avisos y los datos de tu firma (tu nombre, departamento, instituto). También es donde puedes **guardar (exportar)** todo tu trabajo en un archivo `.json` o **recuperarlo (importar)** para no perder la información si cambias de ordenador.
+Aquí defines los colores principales de los avisos y los datos de tu firma (tu nombre, departamento, instituto). 
 
 ### 👥 Coordinación TDE
 Sirve para publicar las tareas que tienen que hacer los profesores, las fechas límite y listas de enlaces útiles (documentación, normativas, manuales…).
